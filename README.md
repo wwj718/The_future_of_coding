@@ -3,8 +3,6 @@
 
 "better old thing."
 
-[Github: The_future_of_coding](https://github.com/wwj718/The_future_of_coding)
-
 # Programming Language & Environment
 *  [LISP](https://en.wikipedia.org/wiki/Lisp_(programming_language))
     *  [Scheme](https://en.wikipedia.org/wiki/Scheme_(programming_language))
@@ -46,6 +44,7 @@
 
 # Project
 *  [HyperCard](https://en.wikipedia.org/wiki/HyperCard)
+*  [StarLogo](https://education.mit.edu/project/starlogo-tng/)
 *  [Tutoring System](https://harc.ycr.org/project/tutoring-system/)
     *  [Towards Making a Computer Tutor for Children of All Ages](http://www.vpri.org/pdf/tr2016002_tutor.pdf)
 *  [Dynamicland](https://dynamicland.org/)
