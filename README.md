@@ -1,6 +1,4 @@
 # The future of coding
-better old thing.
-
 ![](http://wwj-fig-bed.just4fun.site/dynabook_3e211037.png)
 
 "better old thing."
@@ -9,6 +7,7 @@ better old thing.
 *  [LISP](https://zh.wikipedia.org/zh/LISP)
     *  [Scheme](https://zh.wikipedia.org/zh/Scheme)
         *  [The Little Schemer](https://book.douban.com/subject/1632977/)
+        *  [SICP](https://web.mit.edu/alexmv/6.037/sicp.pdf)
 *  [Smalltalk](https://zh.wikipedia.org/zh-hans/Smalltalk)
     *  [Squeak](http://www.squeakland.org/)
         *  [Etoys](https://en.wikipedia.org/wiki/Etoys_(programming_language))
@@ -41,7 +40,7 @@ better old thing.
     *  [Lifelong Kindergarten: Cultivating Creativity through Projects, Passion, Peers, and Play](https://mitpress.mit.edu/books/lifelong-kindergarten)
     *  [let's teach kids to code](https://www.ted.com/talks/mitch_resnick_let_s_teach_kids_to_code)
 
-# Projects
+# Project
 *  [Tutoring System](https://harc.ycr.org/project/tutoring-system/)
     *  [Towards Making a Computer Tutor for Children of All Ages](http://www.vpri.org/pdf/tr2016002_tutor.pdf)
 *  [Dynamicland](https://dynamicland.org/)
@@ -60,3 +59,4 @@ better old thing.
 *  [Alan Kay's Reading List](http://www.squeakland.org/resources/books/readingList.jsp)
 *  [Bret Victor’s reading list](http://worrydream.com/#!/Links)
     *  [plain-text version](https://gist.github.com/nickloewen/10565777)
+
