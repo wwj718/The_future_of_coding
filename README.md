@@ -4,12 +4,12 @@
 "better old thing."
 
 # Programming Language & Environment
-*  [LISP](https://zh.wikipedia.org/zh/LISP)
-    *  [Scheme](https://zh.wikipedia.org/zh/Scheme)
+*  [LISP](https://en.wikipedia.org/wiki/Lisp_(programming_language))
+    *  [Scheme](https://en.wikipedia.org/wiki/Scheme_(programming_language))
         *  [The Little Schemer](https://book.douban.com/subject/1632977/)
     *  [Racket](https://www.racket-lang.org/)
     *  [SICP](https://web.mit.edu/alexmv/6.037/sicp.pdf)
-*  [Smalltalk](https://zh.wikipedia.org/zh-hans/Smalltalk)
+*  [Smalltalk](https://en.wikipedia.org/wiki/Smalltalk)
     *  [Squeak](http://www.squeakland.org/)
         *  [Etoys](https://en.wikipedia.org/wiki/Etoys_(programming_language))
             *  [Learning with Etoys - Imagine Invent Inspire](http://wiki.squeakland.org/index.php/LearningWithEtoysI3)
