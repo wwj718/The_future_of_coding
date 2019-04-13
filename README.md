@@ -22,7 +22,7 @@
 *  [GP](https://harc.ycr.org/project/gp/)
 *  [realtalk](https://harc.ycr.org/project/realtalk/)
 
-# researcher
+# Researcher
 *  [Douglas Engelbart](https://en.wikipedia.org/wiki/Douglas_Engelbart)
 *  [John McCarthy](https://en.wikipedia.org/wiki/John_McCarthy_(computer_scientist))
 *  [Alan Kay](https://en.wikipedia.org/wiki/Alan_Kay)
@@ -48,7 +48,7 @@
 *  [Apparatus](https://harc.ycr.org/project/apparatus/)
     *  [Read more](http://aprt.us/)
 
-# organization
+# Organization
 *  [Xerox PARC](https://en.wikipedia.org/wiki/PARC_(company))
 *  [Dynamicland](https://dynamicland.org/)
 *  [Lifelong Kindergarten](https://www.media.mit.edu/groups/lifelong-kindergarten/overview/)
