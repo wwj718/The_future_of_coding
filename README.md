@@ -7,7 +7,8 @@
 *  [LISP](https://zh.wikipedia.org/zh/LISP)
     *  [Scheme](https://zh.wikipedia.org/zh/Scheme)
         *  [The Little Schemer](https://book.douban.com/subject/1632977/)
-        *  [SICP](https://web.mit.edu/alexmv/6.037/sicp.pdf)
+    *  [Racket](https://www.racket-lang.org/)
+    *  [SICP](https://web.mit.edu/alexmv/6.037/sicp.pdf)
 *  [Smalltalk](https://zh.wikipedia.org/zh-hans/Smalltalk)
     *  [Squeak](http://www.squeakland.org/)
         *  [Etoys](https://en.wikipedia.org/wiki/Etoys_(programming_language))
@@ -59,4 +60,3 @@
 *  [Alan Kay's Reading List](http://www.squeakland.org/resources/books/readingList.jsp)
 *  [Bret Victor’s reading list](http://worrydream.com/#!/Links)
     *  [plain-text version](https://gist.github.com/nickloewen/10565777)
-
