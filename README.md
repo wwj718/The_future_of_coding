@@ -3,6 +3,8 @@
 
 "better old thing."
 
+[Github: The_future_of_coding](https://github.com/wwj718/The_future_of_coding)
+
 # Programming Language & Environment
 *  [LISP](https://en.wikipedia.org/wiki/Lisp_(programming_language))
     *  [Scheme](https://en.wikipedia.org/wiki/Scheme_(programming_language))
@@ -37,21 +39,27 @@
         *  [LEARNABLE PROGRAMMING](http://worrydream.com/#!/LearnableProgramming)
         *  [Kill Math](http://worrydream.com/KillMath/)
         *  [InventingOnPrinciple](http://worrydream.com/#!/InventingOnPrinciple)
+*  [John Maloney](https://harc.ycr.org/member/john_maloney/)
 *  [Mitchel Resnick](https://en.wikipedia.org/wiki/Mitchel_Resnick)
     *  [Lifelong Kindergarten: Cultivating Creativity through Projects, Passion, Peers, and Play](https://mitpress.mit.edu/books/lifelong-kindergarten)
     *  [let's teach kids to code](https://www.ted.com/talks/mitch_resnick_let_s_teach_kids_to_code)
 
 # Project
+*  [HyperCard](https://en.wikipedia.org/wiki/HyperCard)
 *  [Tutoring System](https://harc.ycr.org/project/tutoring-system/)
     *  [Towards Making a Computer Tutor for Children of All Ages](http://www.vpri.org/pdf/tr2016002_tutor.pdf)
 *  [Dynamicland](https://dynamicland.org/)
 *  [Apparatus](https://harc.ycr.org/project/apparatus/)
     *  [Read more](http://aprt.us/)
+*  [mathigon](https://mathigon.org/)
+*  [Shadama](http://tinlizzie.org/~ohshima/shadama2/live2017/)
 
 # Organization
 *  [Xerox PARC](https://en.wikipedia.org/wiki/PARC_(company))
+*  [ARPA](https://en.wikipedia.org/wiki/ARPANET)
 *  [Dynamicland](https://dynamicland.org/)
 *  [Lifelong Kindergarten](https://www.media.mit.edu/groups/lifelong-kindergarten/overview/)
+*  [vpri](http://www.vpri.org/)
 *  [CDG](http://www.cdglabs.org/)
 *  [HARC](https://harc.ycr.org/)
     *  [members](https://harc.ycr.org/member/)
